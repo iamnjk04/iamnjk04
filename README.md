@@ -12,7 +12,7 @@ MS Web ad Data Science student who is passionate about building scalable solutio
 
 ## 🎯 Technical Focus Areas
 - **Data Science**: Databricks, Data modelling, Data Lakehouse, ETL Process
-- **Machine Learning & Analytics**: Python, R, TensorFlow, Pandas
+- **Machine Learning & Analytics**: Python, TensorFlow, Pandas
 - **Cloud Platforms**: AWS, Docker, Kubernetes, Terraform
 - **DevOps Tools**: Docker, Kubernetes, GitLab CI, Ansible, Monitoring & Logging
 
